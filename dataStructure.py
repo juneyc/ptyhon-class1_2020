@@ -15,7 +15,7 @@ myPets = ['dog','cat','rat','horse'] # strings
 myBools = [True, False, True]
 mixedTypes = [10, 'Hello', True, 10.8]
 listOflists = [[1,2,3,4],[10,'hello',True],[9,9,False], [10.5]]
-
+print(len(listOflists))
 #list indexing
 print(myList[6])
 print(myList[-2])
@@ -34,7 +34,7 @@ print(x[::-2])#eca
 print(x[::-3])#eb
 
 print(listOflists[1][2])
-print(listOflists[2][2])
+print(listOflists[2][0])
 
 age='16'
 print('my age is {}'.format(age))
@@ -45,3 +45,5 @@ daysOftheweek= ('mon','tue','wed','thur','fri','sat','sun')
 tol = ([1,2,3,'tue'],['we', True],[10])
 y =tol[1].append(1)
 print(tol)
+
+# dictionaries- store data using key value pair format
