@@ -1,6 +1,5 @@
-accBal= 500
+airtime= 500
 
 
+spend=int(input('Enter amount: '))
 
-airtime=int(input('Enter amount: '))
-spend
