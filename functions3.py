@@ -1,12 +1,13 @@
 # def addFourNumber(a,b,c,d):
 #
-#     sum=a+b+c+d
-#     # print(sum)
-#
-# # addFourNumber(10,10,10,10)
-#
+# #     sum=a+b+c+d
+# #     # print(sum)
+# #
+# # # addFourNumber(10,10,10,10)
+# #
 #     # return a value that you can use in another operation
 #     return sum
+#
 # x=addFourNumber(10,10,10,10)
 # print(x)
 #
@@ -18,11 +19,11 @@
 # else:
 #     print('<100')
 #
-#
-# #statement can contain an expression which gets evaluated and a value gets returned
-#
-# def largestNumber(a,b):
-#     print(largestNumber(10,20))
+
+#statement can contain an expression which gets evaluated and a value gets returned
+
+def largestNumber(a,b):
+    print(largestNumber(10,20))
 
 # a) Create a function that takes a name and returns a greeting. example:
 def helloName(name):
